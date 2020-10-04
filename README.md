@@ -15,3 +15,4 @@
 - Shape Robust Text Detection with Progressive Scale Expansion Network [[paper]](https://arxiv.org/pdf/1903.12473.pdf)
 - EfficientDet: Scalable and Efficient Object Detection [[paper]](https://arxiv.org/pdf/1911.09070.pdf)
 - Spatial Transformer Networks [[paper]](https://arxiv.org/pdf/1506.02025.pdf)
+- TextFuseNet: Scene Text Detection with Richer Fused Features [[paper]](https://www.ijcai.org/Proceedings/2020/0072.pdf) [[code]](https://github.com/ying09/TextFuseNet)
