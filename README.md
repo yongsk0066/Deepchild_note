@@ -16,3 +16,4 @@
 - EfficientDet: Scalable and Efficient Object Detection [[paper]](https://arxiv.org/pdf/1911.09070.pdf)
 - Spatial Transformer Networks [[paper]](https://arxiv.org/pdf/1506.02025.pdf)
 - TextFuseNet: Scene Text Detection with Richer Fused Features [[paper]](https://www.ijcai.org/Proceedings/2020/0072.pdf) [[code]](https://github.com/ying09/TextFuseNet)
+- Attention Is All You Need [[paper]](https://arxiv.org/pdf/1706.03762.pdf)
