@@ -20,4 +20,4 @@ ___
 ### NLP related
 
 - [x] Attention Is All You Need [[paper]](https://arxiv.org/pdf/1706.03762.pdf) / 21년 9월 1주차
-- [ ] BERT:Pre-training of Deep Bidirectional Transformers for Language Understanding [[paper]](https://arxiv.org/pdf/1810.04805.pdf)
+- [x] BERT:Pre-training of Deep Bidirectional Transformers for Language Understanding [[paper]](https://arxiv.org/pdf/1810.04805.pdf)
