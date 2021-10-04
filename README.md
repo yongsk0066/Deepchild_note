@@ -26,3 +26,4 @@ ___
 ### Commonsense
 - [x] ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning [[paper]](https://arxiv.org/abs/1811.00146)
 - [x] COMET: Commonsense Transformers for Automatic Knowledge Graph Construction [[paper]](https://arxiv.org/abs/1906.05317)
+- [ ] COSMIC: COmmonSense knowledge for eMotion Identification in Conversations [[paper]](https://arxiv.org/abs/2010.02795)
