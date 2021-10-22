@@ -3,7 +3,7 @@
 - 현재 OCR 관련 논문 위주 읽기
 - 2021/09/10 NLP 공부중
 - 2021/10 Commonsense 
-- IEMOCAP 감정데이터 분석
+- 2021/10 IEMOCAP 감정데이터 분석
 - COSMIC 적용 방안 검토
 
 
