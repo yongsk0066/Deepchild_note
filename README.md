@@ -4,8 +4,8 @@
 -   2021/09/10 NLP 공부중
 -   2021/10 Commonsense
 -   2021/10 IEMOCAP 감정데이터 분석
--   COSMIC 적용 방안 검토
--   IEMOCAP -> ATOMIC
+-   IEMOCAP -> COSMIC
+-   COSMIC 돌려보기
 
 ## 읽을 거리
 
