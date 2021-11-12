@@ -33,4 +33,4 @@
 -   [ ] Past, Present, and Future: Conversational Emotion Recognition through
 Structural Modeling of Psychological Knowledge [[paper]](https://aclanthology.org/2021.findings-emnlp.104.pdf) [[code]] ( not-yet )
 -   [ ] Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware
-Multi-Task Learning for Emotion Recognition in Conversations [[papaer]](https://aclanthology.org/2021.findings-emnlp.245.pdf) 
+Multi-Task Learning for Emotion Recognition in Conversations [[paper]](https://aclanthology.org/2021.findings-emnlp.245.pdf) 
