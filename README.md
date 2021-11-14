@@ -7,6 +7,7 @@
 -   IEMOCAP -> COSMIC
 -   COSMIC 돌려보기
 -   COSMIC 변형 + 논문 추가 분석
+-   뇌과학 쪽 
 
 ## 읽을 거리
 
