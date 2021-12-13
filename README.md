@@ -31,7 +31,7 @@
 -   [x] ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning [[paper]](https://arxiv.org/abs/1811.00146)
 -   [x] COMET: Commonsense Transformers for Automatic Knowledge Graph Construction [[paper]](https://arxiv.org/abs/1906.05317)
 -   [x] COSMIC: COmmonSense knowledge for eMotion Identification in Conversations [[paper]](https://arxiv.org/abs/2010.02795), [[발표]](https://github.com/yongsk0066/Deepchild_note/blob/master/COSMIC/COSMIC%20%EB%B0%9C%ED%91%9C.pdf)
--   [ ] Past, Present, and Future: Conversational Emotion Recognition through
+-   [x] Past, Present, and Future: Conversational Emotion Recognition through
 Structural Modeling of Psychological Knowledge [[paper]](https://aclanthology.org/2021.findings-emnlp.104.pdf) [[code]] ( not-yet )
--   [ ] Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware
+-   [x] Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware
 Multi-Task Learning for Emotion Recognition in Conversations [[paper]](https://aclanthology.org/2021.findings-emnlp.245.pdf) 
