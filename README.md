@@ -6,9 +6,8 @@
 -   2021/10 IEMOCAP 감정데이터 분석
 -   IEMOCAP -> COSMIC
 -   COSMIC 돌려보기
--   COSMIC 변형 + 논문 추가 분석
--   뇌과학 쪽 
--   최종발표
+-   COSMIC 변형 + 논문 추가 분석(PPF)
+-   [최종발표](https://github.com/yongsk0066/Deepchild_note/blob/Emotion%20Recognition.pdf)
 
 ## 읽을 거리
 
