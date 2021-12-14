@@ -7,7 +7,7 @@
 -   IEMOCAP -> COSMIC
 -   COSMIC 돌려보기
 -   COSMIC 변형 + 논문 추가 분석(PPF)
--   [최종발표](https://github.com/yongsk0066/Deepchild_note/blob/Emotion%20Recognition.pdf)
+-   [최종발표](https://github.com/yongsk0066/Deepchild_note/blob/master/FINAL_PRESETATION/Emotion%20Recognition.pdf)
 
 ## 읽을 거리
 
